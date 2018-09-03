@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamuelWC3MatchData", "SamuelWC3MatchData\SamuelWC3MatchData.csproj", "{B447699A-634F-46A0-A1E2-1FE2914ECDA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B447699A-634F-46A0-A1E2-1FE2914ECDA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B447699A-634F-46A0-A1E2-1FE2914ECDA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B447699A-634F-46A0-A1E2-1FE2914ECDA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B447699A-634F-46A0-A1E2-1FE2914ECDA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C77B956A-7DBB-46C1-8DAA-09F76758D915}
+	EndGlobalSection
+EndGlobal
